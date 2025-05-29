@@ -1,0 +1,7 @@
+sphinx
+docutils
+myst-parser
+sphinx-autobuild
+sphinx_rtd_theme
+sphinx_markdown_tables
+recommonmark
