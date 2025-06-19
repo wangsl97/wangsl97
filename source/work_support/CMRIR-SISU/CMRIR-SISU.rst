@@ -10,3 +10,9 @@ Technical Engineer.
 
 
 .. figure:: ../SISU-20220831.jpeg
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Work Support for CMRIR-SISU
+
+   ./Server_management/server_management
