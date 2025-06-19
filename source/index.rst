@@ -73,6 +73,7 @@ It is intended for myself, my colleagues and friends in similar research fields.
    :caption: Work Support for CMRIR-SISU
 
    work_support/CMRIR-SISU/CMRIR-SISU
+   work_support/CMRIR-SISU/Server_management/server_management
 
 
 .. toctree::

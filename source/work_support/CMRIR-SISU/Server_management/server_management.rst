@@ -18,12 +18,9 @@ too many users on a single server and reducing work efficiency.
 .. note::
     Before creating a new user, please determine the following user's information:
 
-    - **The name of the user:** For example, **new_user**. Make sure that it is different 
-    from the existing users' name.
+    - **The name of the user:** For example, **new_user**. Make sure that it is different from the existing users' name.
     
-    - **User's password:** Set up a password with some complexity. It is recommended to 
-    use a `strong password generator <https://www.strongpasswordgenerator.org/>`__ 
-    to obtain a random 12 complex password.
+    - **User's password:** Set up a password with some complexity. It is recommended to use a `strong password generator <https://www.strongpasswordgenerator.org/>`__ to obtain a random 12 complex password.
     
     - **Remote Access Password:** Password for the remote desktop access via VNC.
 
